@@ -1,0 +1,115 @@
+company;aircraft;airNumber;F;J;Y+;Y;Total;totF;totJ;totY+;totY;totSeats;airClass
+Endevour;Bombardier CRJ-200;30;;;4;46;50;0;0;120;1380;1500;Bombard
+Endevour;Bombardier CRJ-700;13;9;;16;44;69;117;0;208;572;897;Bombard
+Endevour;Bombardier CRJ-900;123;12;;20;38;70;1476;0;2460;4674;8610;Bombard
+Endevour;Bombardier CRJ-901;;12;;20;44;76;0;0;0;0;0;Bombard
+American Airlines Inc.;Airbus A319-100;133;;8;;120;128;0;1064;0;15960;17024;Airbus 
+American Airlines Inc.;Airbus A320-200;48;;12;;138;150;0;576;0;6624;7200;Airbus 
+American Airlines Inc.;Airbus A321-200;218;;16;;171;187;0;3488;0;37278;40766;Airbus 
+American Airlines Inc.;Airbus A321-201;;;20;;170;190;0;0;0;0;0;Airbus 
+American Airlines Inc.;Airbus A321neo;68;;20;;176;196;0;1360;0;11968;13328;Airbus 
+American Airlines Inc.;Boeing 737-800;303;;16;;144;160;0;4848;0;43632;48480;Boeing 
+American Airlines Inc.;Boeing 737-801;;;16;;156;172;0;0;0;0;0;Boeing 
+American Airlines Inc.;Boeing 737 MAX 8;42;;16;;156;172;0;672;0;6552;7224;Boeing 
+American Airlines Inc.;Boeing 777-200ER;47;;37;24;212;273;0;1739;1128;9964;12831;Boeing 
+American Airlines Inc.;Boeing 777-300ER;20;8;52;28;216;304;160;1040;560;4320;6080;Boeing 
+American Airlines Inc.;Boeing 787-8;33;;20;28;186;234;0;660;924;6138;7722;Boeing 
+American Airlines Inc.;Boeing 787-9;22;;30;24;234;288;0;660;528;5148;6336;Boeing 
+Alaska Airlines Inc.;Airbus A321neo;10;16;;;174;190;160;0;0;1740;1900;Airbus 
+Alaska Airlines Inc.;Boeing 737-700;11;12;;;112;124;132;0;0;1232;1364;Boeing 
+Alaska Airlines Inc.;Boeing 737-800;61;12;;;147;159;732;0;0;8967;9699;Boeing 
+Alaska Airlines Inc.;Boeing 737-900;12;16;;;165;181;192;0;0;1980;2172;Boeing 
+Alaska Airlines Inc.;Boeing 737-900ER;79;16;;;165;181;1264;0;0;13035;14299;Boeing 
+Alaska Airlines Inc.;Boeing 737 MAX 9;37;30;;;204;234;1110;0;0;7548;8658;Boeing 
+JetBlue Airways;Embraer E-190;55;;;16;84;100;0;0;880;4620;5500;Embraer
+JetBlue Airways;Airbus A220-300;12;;;25;115;140;0;0;300;1380;1680;Airbus 
+JetBlue Airways;Airbus A320-200;130;;;42;108;150;0;0;5460;14040;19500;Airbus 
+JetBlue Airways;Airbus A320-200;;;;42;120;162;0;0;0;0;0;Airbus 
+JetBlue Airways;Airbus A321-200;63;;16;40;102;158;0;1008;2520;6426;9954;Airbus 
+JetBlue Airways;Airbus A321-200;;;;42;158;200;0;0;0;0;0;Airbus 
+JetBlue Airways;Airbus A321neo;18;;16;42;102;160;0;288;756;1836;2880;Airbus 
+JetBlue Airways;Airbus A321neo;;;;42;158;200;0;0;0;0;0;Airbus 
+JetBlue Airways;Airbus A321LR;7;;24;24;90;138;0;168;168;630;966;Airbus 
+Delta Air Lines Inc.;Airbus A220-100;45;12;;15;82;109;540;0;675;3690;4905;Airbus 
+Delta Air Lines Inc.;Airbus A220-300;15;12;;30;88;130;180;0;450;1320;1950;Airbus 
+Delta Air Lines Inc.;Airbus A319-100;57;12;;18;102;132;684;0;1026;5814;7524;Airbus 
+Delta Air Lines Inc.;Airbus A320-200;61;16;;18;123;157;976;0;1098;7503;9577;Airbus 
+Delta Air Lines Inc.;Airbus A321-200;127;20;;29;142;191;2540;0;3683;18034;24257;Airbus 
+Delta Air Lines Inc.;Airbus A321neo;23;20;;42;132;194;460;0;966;3036;4462;Airbus 
+Delta Air Lines Inc.;Airbus A321neo;;16;12;54;66;148;0;0;0;0;0;Airbus 
+Delta Air Lines Inc.;Airbus A330-200;11;34;21;24;144;223;374;231;264;1584;2453;Airbus 
+Delta Air Lines Inc.;Airbus A330-300;31;34;21;24;203;282;1054;651;744;6293;8742;Airbus 
+Delta Air Lines Inc.;Airbus A330-900neo;20;29;28;56;168;281;580;560;1120;3360;5620;Airbus 
+Delta Air Lines Inc.;Airbus A350-900;28;32;48;36;190;306;896;1344;1008;5320;8568;Airbus 
+Delta Air Lines Inc.;Airbus A350-900;;30;;63;246;339;0;0;0;0;0;Airbus 
+Delta Air Lines Inc.;Boeing 717-200;66;12;;20;78;110;792;0;1320;5148;7260;Boeing 
+Delta Air Lines Inc.;Boeing 737-800;77;16;;36;108;160;1232;0;2772;8316;12320;Boeing 
+Delta Air Lines Inc.;Boeing 737-900ER;163;20;;21;139;180;3260;0;3423;22657;29340;Boeing 
+Delta Air Lines Inc.;Boeing 757-200;111;20;;29;150;199;2220;0;3219;16650;22089;Boeing 
+Delta Air Lines Inc.;Boeing 757-300;16;24;;32;178;234;384;0;512;2848;3744;Boeing 
+Delta Air Lines Inc.;Boeing 767-300ER;45;26;;35;165;226;1170;0;1575;7425;10170;Boeing 
+Delta Air Lines Inc.;Boeing 767-300ER;;36;;32;143;211;0;0;0;0;0;Boeing 
+Delta Air Lines Inc.;Boeing 767-400ER;21;34;20;28;156;238;714;420;588;3276;4998;Boeing 
+Frontier Airlines Inc.;Airbus A320-200;12;;;;;180;0;0;0;0;2160;Airbus 
+Frontier Airlines Inc.;Airbus A320neo;81;;;;;186;0;0;0;0;15066;Airbus 
+Frontier Airlines Inc.;Airbus A321-200;21;;;;;230;0;0;0;0;4830;Airbus 
+Frontier Airlines Inc.;Airbus A321neo;1;;;;;240;0;0;0;0;240;Airbus 
+Allegiant Air;Airbus A319-100;38;;;;;156;0;0;0;0;5928;Airbus 
+Allegiant Air;Airbus A320-200;67;;;;;177;0;0;0;0;11859;Airbus 
+Hawaiian Airlines Inc.;Airbus A321neo;18;;;16;173;189;0;0;288;3114;3402;Airbus 
+Hawaiian Airlines Inc.;Airbus A330-200;24;;;18;260;278;0;0;432;6240;6672;Airbus 
+Hawaiian Airlines Inc.;Boeing 717-200;19;;;8;120;128;0;0;152;2280;2432;Boeing 
+Hawaiian Airlines Inc.;Boeing 787-9;;;;34;267;301;0;0;0;0;0;Boeing 
+Envoy Air;Bombardier CRJ700;25;9;;;54;63;225;0;0;1350;1575;Bombard
+Envoy Air;Bombardier CRJ700;25;;;;56;65;0;0;0;1400;1625;Bombard
+Envoy Air;Embraer ERJ 140;59;;;;44;44;0;0;0;2596;2596;Embraer
+Envoy Air;Embraer ERJ 145;118;;;;50;50;0;0;0;5900;5900;Embraer
+Spirit Air Lines;Airbus A319-100;26;;;;;145;0;0;0;0;3770;Airbus 
+Spirit Air Lines;Airbus A320-200;7;;;;;178;0;0;0;0;1246;Airbus 
+Spirit Air Lines;Airbus A320neo;1;;;;;180;0;0;0;0;180;Airbus 
+Spirit Air Lines;Airbus A321-200;2;;;;;218;0;0;0;0;436;Airbus 
+PSA Airlines Inc.;Bombardier CRJ700;38;9;;8;48;65;342;0;304;1824;2470;Bombard
+PSA Airlines Inc.;Bombardier CRJ900;69;12;;32;32;76;828;0;2208;2208;5244;Bombard
+SkyWest Airlines Inc.;Bombardier CRJ200;22;;;4;46;50;0;0;88;1012;1100;Bombard
+SkyWest Airlines Inc.;Bombardier CRJ700;80;9;;16;40;65;720;0;1280;3200;5200;Bombard
+SkyWest Airlines Inc.;Bombardier CRJ700;5;9;;16;44;69;45;0;80;220;345;Bombard
+SkyWest Airlines Inc.;Bombardier CRJ700;19;6;;16;48;70;114;0;304;912;1330;Bombard
+SkyWest Airlines Inc.;Bombardier CRJ900;13;12;;20;38;70;156;0;260;494;910;Bombard
+SkyWest Airlines Inc.;Embraer 175SC;37;12;;20;38;70;444;0;740;1406;2590;Embraer
+SkyWest Airlines Inc.;Embraer 175SC;25;12;;32;26;70;300;0;800;650;1750;Embraer
+SkyWest Airlines Inc.;Bombardier CRJ900;28;12;;20;44;76;336;0;560;1232;2128;Bombard
+United Air Lines Inc.;Airbus A319-100;81;;12;;114;126;0;972;0;9234;10206;Airbus 
+United Air Lines Inc.;Airbus A320-200;99;;12;;138;150;0;1188;0;13662;14850;Airbus 
+United Air Lines Inc.;Boeing 737-700;40;;12;;114;126;0;480;0;4560;5040;Boeing 
+United Air Lines Inc.;Boeing 737-800;141;;16;;150;166;0;2256;0;21150;23406;Boeing 
+United Air Lines Inc.;Boeing 737-900;12;;20;;159;179;0;240;0;1908;2148;Boeing 
+United Air Lines Inc.;Boeing 737-900ER;136;;20;;159;179;0;2720;0;21624;24344;Boeing 
+United Air Lines Inc.;Boeing 737 MAX 9;48;;20;;159;179;0;960;0;7632;8592;Boeing 
+United Air Lines Inc.;Boeing 757-200;40;;16;;153;169;0;640;0;6120;6760;Boeing 
+United Air Lines Inc.;Boeing 757-300;21;;24;;189;213;0;504;0;3969;4473;Boeing 
+United Air Lines Inc.;Boeing 767-300ER;37;;46;22;99;167;0;1702;814;3663;6179;Boeing 
+United Air Lines Inc.;Boeing 767-300ER;;;30;;184;214;0;0;0;0;0;Boeing 
+United Air Lines Inc.;Boeing 767-400ER;16;;39;;203;242;0;624;0;3248;3872;Boeing 
+United Air Lines Inc.;Boeing 777-200;19;;28;;336;364;0;532;0;6384;6916;Boeing 
+United Air Lines Inc.;Boeing 777-200ER;55;8;40;;221;269;440;2200;0;12155;14795;Boeing 
+United Air Lines Inc.;Boeing 777-200ER;;;50;24;202;276;0;0;0;0;0;Boeing 
+United Air Lines Inc.;Boeing 777-200ER;;;32;;330;362;0;0;0;0;0;Boeing 
+United Air Lines Inc.;Boeing 777-300ER;22;;60;24;266;350;0;1320;528;5852;7700;Boeing 
+United Air Lines Inc.;Boeing 787-8;12;;36;;183;219;0;432;0;2196;2628;Boeing 
+United Air Lines Inc.;Boeing 787-8;;;28;21;194;243;0;0;0;0;0;Boeing 
+United Air Lines Inc.;Boeing 787-9;38;;48;;204;252;0;1824;0;7752;9576;Boeing 
+United Air Lines Inc.;Boeing 787-9;;;48;21;188;257;0;0;0;0;0;Boeing 
+United Air Lines Inc.;Boeing 787-10;19;;44;21;253;318;0;836;399;4807;6042;Boeing 
+Southwest Airlines Co.;Boeing 737-700;430;;;;143;143;0;0;0;61490;61490;Boeing 
+Southwest Airlines Co.;Boeing 737-800;207;;;;175;175;0;0;0;36225;36225;Boeing 
+Southwest Airlines Co.;Boeing 737 MAX 7;;;;;150;150;0;0;0;0;0;Boeing 
+Southwest Airlines Co.;Boeing 737 MAX 8;136;;;;175;175;0;0;0;23800;23800;Boeing 
+Republic Airline;Embraer 170;8;12;;20;34;66;96;0;160;272;528;Embraer
+Republic Airline;Embraer 170;8;9;;12;48;69;72;0;96;384;552;Embraer
+Republic Airline;Embraer 170;38;6;;16;;70;228;0;608;0;2660;Embraer
+Republic Airline;Embraer 175;88;12;;20;44;76;1056;0;1760;3872;6688;Embraer
+Horizon Air;Bombardier Dash 8-Q400;40;;;;76;76;0;0;0;3040;3040;Bombard
+Horizon Air;Embraer 175;22;12;;12;52;76;264;0;264;1144;1672;Embraer
+Mesa Airlines Inc.;Bombardier CRJ900;64;;9;;67;76;0;576;0;4288;4864;Bombard
+Mesa Airlines Inc.;Embraer 175;80;;12;;58;70;0;960;0;4640;5600;Embraer
+Mesa Airlines Inc.;Embraer 175;;;12;;64;76;0;0;0;0;0;Embraer
